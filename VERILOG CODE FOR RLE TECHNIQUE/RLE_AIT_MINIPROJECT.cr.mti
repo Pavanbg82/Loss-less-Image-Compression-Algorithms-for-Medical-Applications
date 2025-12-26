@@ -1,0 +1,57 @@
+C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/RLE_DECODER.v {1 {vlog -work work -stats=none C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/RLE_DECODER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RLE_DECODER
+
+Top level modules:
+	RLE_DECODER
+
+} {} {}} C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/TB_FULL_PIPELINE.v {1 {vlog -work work -stats=none C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/TB_FULL_PIPELINE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_FULL_PIPELINE_FILE
+
+Top level modules:
+	TB_FULL_PIPELINE_FILE
+
+} {} {}} C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/DPCM_DECODER.v {1 {vlog -work work -stats=none C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/DPCM_DECODER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DPCM_DECODER
+
+Top level modules:
+	DPCM_DECODER
+
+} {} {}} C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/TB_RLE_DECODER.v {1 {vlog -work work -stats=none C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/TB_RLE_DECODER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_RLE_DECODER_fixed
+
+Top level modules:
+	TB_RLE_DECODER_fixed
+
+} {} {}} C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/RLE_ENCODER.v {1 {vlog -work work -stats=none C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/RLE_ENCODER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RLE_ENCODER
+
+Top level modules:
+	RLE_ENCODER
+
+} {} {}} C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/VERIFY_RLE.v {1 {vlog -work work -stats=none C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/VERIFY_RLE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module VERIFY_RLE
+
+Top level modules:
+	VERIFY_RLE
+
+} {} {}} C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/DPCM_ENCODER.v {1 {vlog -work work -stats=none C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/DPCM_ENCODER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DPCM_ENCODER
+
+Top level modules:
+	DPCM_ENCODER
+
+} {} {}} C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/TB_RLE_ENCODER.v {1 {vlog -work work -stats=none C:/Users/pavan_at7lvlv/OneDrive/Documents/Desktop/mini_pro/RLE_AIT_MINIPROJECT/TB_RLE_ENCODER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_RLE_ENCODER
+
+Top level modules:
+	TB_RLE_ENCODER
+
+} {} {}}

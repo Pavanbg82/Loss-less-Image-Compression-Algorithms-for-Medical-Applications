@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final
+vhuff_decoder_synth
+Z1 !s110 1762600179
+!i10b 1
+!s100 :KKaJ2]DkIDzFN^`ZRSUN1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5Qf2?ZE?h?D6cmQYLcWoG2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1762522042
+8C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_decoder_synth.v
+FC:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_decoder_synth.v
+!i122 43
+L0 1 25
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1762600179.000000
+!s107 C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_decoder_synth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_decoder_synth.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vhuff_encoder_synth
+R1
+!i10b 1
+!s100 NiDFzF4:n=7jPg9mEKc>g0
+R2
+IX?C1dzbX6CL1F2a^90eDI1
+R3
+R0
+R4
+8C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_encoder_synth.v
+FC:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_encoder_synth.v
+!i122 44
+L0 1 26
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_encoder_synth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_encoder_synth.v|
+!i113 1
+R7
+R8
+vhuff_top_codec_synth
+R1
+!i10b 1
+!s100 5b=>of4>HLK9R3A_leXME0
+R2
+IG<kPoYa>8VNbBHe<3K[[D1
+R3
+R0
+R4
+8C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_top_codec_synth.v
+FC:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_top_codec_synth.v
+!i122 45
+L0 1 29
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_top_codec_synth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_top_codec_synth.v|
+!i113 1
+R7
+R8
+vtb_huff_codec_synth
+Z9 !s110 1762600180
+!i10b 1
+!s100 lA`2fmg7ekamkb54m_BkW3
+R2
+Ic:J4MabY_aLXOKiNGQg2=1
+R3
+R0
+w1762596850
+8C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/tb_huff_codec_synth.v
+FC:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/tb_huff_codec_synth.v
+!i122 46
+L0 2 89
+R5
+r1
+!s85 0
+31
+Z10 !s108 1762600180.000000
+!s107 C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/tb_huff_codec_synth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/tb_huff_codec_synth.v|
+!i113 1
+R7
+R8
+vverify_tb_huffman
+R9
+!i10b 1
+!s100 fAeZQnEzJjV5L;JgnZ^zG0
+R2
+IR]J?:6T^98:BC2GoFIDIF3
+R3
+R0
+w1762598607
+8C:\Users\pavan_n20vs63\Downloads\huffman_project_synth_final\verify_tb_huff_codec_synth.v
+FC:\Users\pavan_n20vs63\Downloads\huffman_project_synth_final\verify_tb_huff_codec_synth.v
+!i122 47
+L0 3 78
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:\Users\pavan_n20vs63\Downloads\huffman_project_synth_final\verify_tb_huff_codec_synth.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\pavan_n20vs63\Downloads\huffman_project_synth_final\verify_tb_huff_codec_synth.v|
+!i113 1
+R7
+R8

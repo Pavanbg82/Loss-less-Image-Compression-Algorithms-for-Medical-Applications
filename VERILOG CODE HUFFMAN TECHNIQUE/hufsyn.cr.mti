@@ -1,0 +1,36 @@
+C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_decoder_synth.v {1 {vlog -work work -stats=none C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_decoder_synth.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module huff_decoder_synth
+
+Top level modules:
+	huff_decoder_synth
+
+} {} {}} C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/verify_tb_huff_codec_synth.v {1 {vlog -work work -stats=none {C:\Users\pavan_n20vs63\Downloads\huffman_project_synth_final\verify_tb_huff_codec_synth.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module verify_tb_huffman
+
+Top level modules:
+	verify_tb_huffman
+
+} {} {}} C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/tb_huff_codec_synth.v {1 {vlog -work work -stats=none C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/tb_huff_codec_synth.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_huff_codec_synth
+
+Top level modules:
+	tb_huff_codec_synth
+
+} {} {}} C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_encoder_synth.v {1 {vlog -work work -stats=none C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_encoder_synth.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module huff_encoder_synth
+
+Top level modules:
+	huff_encoder_synth
+
+} {} {}} C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_top_codec_synth.v {1 {vlog -work work -stats=none C:/Users/pavan_n20vs63/Downloads/huffman_project_synth_final/huff_top_codec_synth.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module huff_top_codec_synth
+
+Top level modules:
+	huff_top_codec_synth
+
+} {} {}}
