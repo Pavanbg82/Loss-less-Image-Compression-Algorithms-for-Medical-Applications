@@ -1,5 +1,5 @@
 //======================================================
-// DPCM ENCODER ? Corrected & Verified
+// DPCM ENCODER Corrected & Verified
 //======================================================
 module DPCM_ENCODER(
     input clk,
@@ -27,5 +27,6 @@ module DPCM_ENCODER(
         end
     end
 endmodule
+
 
 
